@@ -3,9 +3,6 @@
 A bulky image with all kinds of utility installed. You can use it to link to
 existing containers and do things to them, while they're running.
 
-Example:
-
-
 ## Get a db prompt in a mysql container
 ~~~
 docker run --name "db" -e MYSQL_ROOT_PASSWORD -d mariadb
